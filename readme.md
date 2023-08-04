@@ -8,5 +8,5 @@ Rodando o docker-compose
 docker-compose up
 
 Testando na web(entrar no localhost selecionado)
-http://localhost/80
+http://localhost:80
 # aprendendoPHP
